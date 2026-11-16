@@ -21,7 +21,7 @@ WEBSTUDIO — це навчальний проєкт зі створення HTM
 ## Структура проєкту
 
 ```text
-goit-markup-hw-01/
+goit-nw-markup-hw-01/
 ├── images/
 │   ├── ...
 ├── index.html
@@ -41,8 +41,10 @@ goit-markup-hw-01/
 
 ## Перегляд проєкту
 
-- **Жива сторінка:** [WEBSTUDIO — GitHub Pages](ПОСИЛАННЯ_НА_GITHUB_PAGES)
-- **Репозиторій:** [goit-markup-hw-01](ПОСИЛАННЯ_НА_GITHUB_REPOSITORY)
+- **Жива сторінка:**
+  [WEBSTUDIO — GitHub Pages](https://oxonomy14.github.io/goit-nw-markup-hw-01/)
+- **Репозиторій:**
+  [goit-nw-markup-hw-01](https://github.com/oxonomy14/goit-nw-markup-hw-01)
 - **Макет:**
   [Web Studio — Figma](https://www.figma.com/design/folOvI69KUmwYN47Njpr0O/Web-Studio--Version-5.1-?node-id=0-1)
 
